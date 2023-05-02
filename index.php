@@ -38,6 +38,7 @@ echo '<div class="alert alert-warning alert-dismissible fade show" role="alert">
 
     <a href="signup.php" class="btn btn-dark">Add New</a>
     <a href="generate_pdf.php" class="btn btn-info">PDF</a>
+    <a href="login.php" class="btn btn-success">login</a>
 <table class="table table_hover text-center">
   <thead class="table_dark">
     <tr>
